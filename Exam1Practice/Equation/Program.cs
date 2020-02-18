@@ -24,7 +24,7 @@ namespace Equation
                 "4-Left Power" +
                 "5-Right Power");
             int answer = Convert.ToInt32(Console.ReadLine());
-
+            List<string> equation = new List<string>();
 
 
         }
